@@ -4,7 +4,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m a graduate.
+- 🔭 I’m in passionate about data science and analytics.
 - 🌱 I’m currently learning deep learning with more focus on NLP ...
 - 👯 I’m looking to collaborate on data science and analytics projects ...
 - 💬 let's talk data
